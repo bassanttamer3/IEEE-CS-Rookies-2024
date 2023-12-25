@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 package create.a.pkgnew.string;
 
