@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package count.words;
 
 import java.util.Scanner;
