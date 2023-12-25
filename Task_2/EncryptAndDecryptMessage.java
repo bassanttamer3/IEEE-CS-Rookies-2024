@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 package encrypt.and.decrypt.message;
 
